@@ -1,4 +1,4 @@
-saldo = 1000
+saldo = 2000
 print ("SELECIONE A OPERAÇÃO DESEJADA")
 print ("1. Sacar")
 print ("2. Depositar")
